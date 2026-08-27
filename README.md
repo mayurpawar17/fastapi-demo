@@ -109,6 +109,16 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
+### Deactivate the Virtual Environment
+
+When you are finished working on the project:
+
+```bash
+deactivate
+```
+
+This works on Windows, macOS, and Linux.
+
 ## 7. Updating Dependencies
 
 When you install a new package:
