@@ -13,8 +13,8 @@ Make sure you have the following installed:
 ## 1. Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd <PROJECT_FOLDER>
+git clone https://github.com/mayurpawar17/fastapi-demo.git
+cd fastapi-demo
 ```
 
 ## 2. Create a Virtual Environment
